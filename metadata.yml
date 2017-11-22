@@ -1,5 +1,5 @@
 
-miq_miq_version: "h" # ManageIQ-API version number
+min_miq_version: "h" # ManageIQ-API version number
 spin_version: "0.0.1"
 author: "Sergio Ocón"
 company: #Optional
