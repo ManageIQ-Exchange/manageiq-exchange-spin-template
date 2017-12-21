@@ -1,16 +1,8 @@
-
-min_miq_version: "h" # ManageIQ-API version number
-spin_version: "0.0.1"
+metadata_version: 1
 author: "Sergio Ocón"
 company: #Optional
-license: MIT
-# Some suggested licenses:
-# - BSD (default)
-# - MIT
-# - GPLv2
-# - GPLv3
-# - Apache
-# - CC-BY
+
+min_miq_version: "h" # A letter with the manageiq_version
 
 tags: []
 # List tags for your spin here, one per line. A tag is a keyword that describes
@@ -20,6 +12,15 @@ tags: []
 # NOTE: A tag is limited to a single word comprised of alphanumeric characters.
 # Maximum 20 tags per spin.
 
-dependencies: 
-# List your role dependencies here, one per line. Be sure to remove the '[]' above,
-# if you add dependencies to this list
+# Spin version
+# The spin version will be gathered from the releases tag in GitHub
+
+# Many licenses need an actual file to work. We use the License API from GitHub
+# Some suggested licenses to configure in the repo:
+# - BSD (default)
+# - MIT
+# - GPLv2
+# - GPLv3
+# - Apache
+# - CC-BY
+# - The Unlicense
