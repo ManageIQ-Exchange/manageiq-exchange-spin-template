@@ -1,5 +1,6 @@
 metadata_version: 1 # It must be 1
-author: "Sergio Ocón"
+description: "Description"
+author: "Author Name"
 company: #Optional
 
 min_miq_version: "h" 
