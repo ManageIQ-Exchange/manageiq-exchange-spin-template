@@ -1,8 +1,12 @@
-metadata_version: 1
+metadata_version: 1 # It must be 1
 author: "Sergio Ocón"
 company: #Optional
 
-min_miq_version: "h" # A letter with the manageiq_version
+min_miq_version: "h" 
+# A letter with the manageiq_version:
+# For Hammer, use "h"
+# For Gaprishdanvili, use "g"
+# Etc.
 
 tags: []
 # List tags for your spin here, one per line. A tag is a keyword that describes
