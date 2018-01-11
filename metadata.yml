@@ -3,11 +3,13 @@ description: "Description"
 author: "Author Name"
 company: #Optional
 
-min_miq_version: "h" 
+min_miq_version: "h"
 # A letter with the manageiq_version:
 # For Hammer, use "h"
 # For Gaprishdanvili, use "g"
 # Etc.
+
+# max_miq_version: "h"
 
 tags: []
 # List tags for your spin here, one per line. A tag is a keyword that describes
