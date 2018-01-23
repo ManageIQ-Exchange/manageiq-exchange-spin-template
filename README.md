@@ -1,6 +1,6 @@
-# Test repo for content in ManageIQ Galaxy
+# Test repo for content in ManageIQ Exchange
 
-In order to publish a Spin in ManageIQ Galaxy you will need:
+In order to publish a Spin in ManageIQ Exchange you will need:
 
  - A file that identifies the repo as a manageiq-spin
  ```.manageiq-spin```
